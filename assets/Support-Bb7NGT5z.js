@@ -1,4 +1,4 @@
-import{j as e,T as t,G as o,a as s,F as i,B as c}from"./index-B8eygaLX.js";import{c as a,P as n,S as d,N as m,F as p}from"./Footer-CR2d-9sp.js";import{S as r}from"./SimpleGrid-CKr8Sklw.js";/**
+import{j as e,T as t,G as o,a as s,F as i,B as c}from"./index-DnOVhWRt.js";import{c as a,P as n,S as d,N as m,F as p}from"./Footer-nHiMuB6a.js";import{S as r}from"./SimpleGrid-ZlkBC5_S.js";/**
  * @license @tabler/icons-react v3.19.0 - MIT
  *
  * This source code is licensed under the MIT license.

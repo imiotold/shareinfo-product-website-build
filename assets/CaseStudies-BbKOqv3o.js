@@ -1,4 +1,4 @@
-import{c as d,j as e,F as i,T as h,a as s,b as p,B as x,r as o}from"./index-B8eygaLX.js";import{c as r,I as u,P as c,S as n,B as g}from"./Footer-CR2d-9sp.js";/**
+import{c as d,j as e,F as i,T as h,a as s,b as p,B as x,r as o}from"./index-DnOVhWRt.js";import{c as r,I as u,P as c,S as n,B as g}from"./Footer-nHiMuB6a.js";/**
  * @license @tabler/icons-react v3.19.0 - MIT
  *
  * This source code is licensed under the MIT license.
